@@ -47,3 +47,17 @@ To install, you can use pip as follows:
 
 4. **View the dataset, models and evaluation metrics we used!**
 
+## How to Run the Code
+### Unigram Naive Bayes:
+
+### Bigram Naive Bayes:
+
+### Logistic Regression:
+
+### VADER:
+
+### SVM:
+
+### BERT:
+
+# List of packages, how to run code, link to dataset
