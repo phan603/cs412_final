@@ -60,4 +60,3 @@ To install, you can use pip as follows:
 
 ### BERT:
 
-# List of packages, how to run code, link to dataset
