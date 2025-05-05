@@ -62,6 +62,8 @@ To install, you can use pip as follows:
 2) Run all cells in `Bigram_Naive_Bayes.ipynb` in order to load the dataset, train the unigram model on the dataset, and output results.
 
 ### Logistic Regression:
+1) Place the `yelp_reviews.csv` in the same folder as `Logistic_Regression_Baseline.ipynb`.
+2) Run all cells in `Logistic_Regression_Baseline.ipynb` in order to load the dataset, train the Logistic Regression model on the dataset, and output results.
 
 ### VADER:
 
@@ -70,4 +72,5 @@ To install, you can use pip as follows:
 2) Run all cells in `CS412_Project_SVM.ipynb` in order to load the dataset, train the unigram model on the dataset, and output results.
 
 ### BERT:
-
+1) Place the `yelp_reviews.csv` in the same folder as `BERT_Classification.ipynb`.
+2) Run all cells in `BERT_Classification.ipynb` in order to load the dataset, train the BERT model on the dataset, and output results.
