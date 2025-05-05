@@ -48,15 +48,26 @@ To install, you can use pip as follows:
 4. **View the dataset, models and evaluation metrics we used!**
 
 ## How to Run the Code
+### Cleaning Dataset:
+1) Download `CS412_Project.ipynb` and place it in your project folder with the `yelp_academic_dataset_business.json` file.
+2) Open `CS412_Project.ipynb`, and uncomment code in the first, second, and third cells to load the json data depending on your coding interface.
+3) Run the the rest of the cells (from fourth to ninth cells) to convert the json file to a csv `yelp_reviews.csv` and perform data cleaning.
+
 ### Unigram Naive Bayes:
+1) Place the `yelp_reviews.csv` in the same folder as `Unigram_Naive_Bayes.ipynb`.
+2) Run all cells in `Unigram_Naive_Bayes.ipynb` in order to load the dataset, train the unigram model on the dataset, and output results.
 
 ### Bigram Naive Bayes:
+1) Place the `yelp_reviews.csv` in the same folder as `Bigram_Naive_Bayes.ipynb`.
+2) Run all cells in `Bigram_Naive_Bayes.ipynb` in order to load the dataset, train the unigram model on the dataset, and output results.
 
 ### Logistic Regression:
 
 ### VADER:
 
 ### SVM:
+1) Place the `yelp_reviews.csv` in the same folder as `CS412_Project_SVM.ipynb`.
+2) Run all cells in `CS412_Project_SVM.ipynb` in order to load the dataset, train the unigram model on the dataset, and output results.
 
 ### BERT:
 
