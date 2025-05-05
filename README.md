@@ -68,6 +68,9 @@ To install, you can use pip as follows:
 2) Run all cells in `Logistic_Regression_Baseline.ipynb` in order to load the dataset, train the Logistic Regression model on the dataset, and output results.
 
 ### VADER:
+1) Go to the `Vader` folder. Locate the file `vader.ipynb`.
+2) Place the `yelp_reviews.csv` in the `Vader` folder (the same one as `vader.ipynb`).
+3) Run all cells in `vader.ipynb` in order to load the dataset, run the algorithm on the data, and output results/evaluations.
 
 ### SVM:
 1) Place the `yelp_reviews.csv` in the same folder as `CS412_Project_SVM.ipynb`.
