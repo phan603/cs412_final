@@ -9,7 +9,9 @@ To reproduce the results, download the dataset from Kaggle:
 
 👉 [Yelp Dataset on Kaggle](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/data?select=yelp_academic_dataset_business.json)
 
-Make sure to download only the `yelp_academic_dataset_business.json` file and place them in a `data/` directory at the root of this project.
+Make sure to download only the `yelp_academic_dataset_business.json` file and place it in the root folder. Once you clean the dataset, you can place the csv file in the root folder as well or in the folders with the Jupyter notebooks. 
+
+**Note that if you place the cleaned dataset in the root folder you may need to change the file path in the Jupyter Notebooks to reproduce the results correctly**
 
 ## ▶️ How to Run
 
